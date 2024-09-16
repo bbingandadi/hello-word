@@ -1,2 +1,3 @@
-# hello-word
+I hold a certificate/diploma in Electrical and Electronic Engineering and pursued a Diploma in Education from 2017 to 2020. This program provided me with hands-on teaching experience, where I utilized innovative teaching strategies and built strong relationships with fellow educators, parents and other stakeholders. In 2021 to 2023, I joined ZUPCO as a crews host, a role in which I was responsible for meeting performance targets and ensuring the security of company funds. From July 2023 to July 2024, I worked as a Driver Salesman at Proton Bakers, where I gained valuable experience in vehicle maintenance, including regular inspections, fuel management, and minimizing operational costs. Currently, I am in my final year of Bachelor of Science Education Honors Degree in Computer Science with NUST institute, furthering my education and expertise in this field.
+hello-word
 This repository is for practicing the GitHub Flow
